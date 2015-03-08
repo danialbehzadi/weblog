@@ -11,7 +11,7 @@ url: "http://danialbehzadi.github.io" # the base hostname & protocol for your si
 twitter_username: danialbehzadi
 github_username:  danialbehzadi
 
-gems: [jekyll_pdate_plugin], ['github-pages']
+gems: ['jekyll_pdate_plugin']
 
 # Handling Reading
 encoding: utf-8
