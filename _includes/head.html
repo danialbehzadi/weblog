@@ -3,6 +3,13 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   
+  <script>
+    var host = 'coderabbi.github.io';
+    if (window.location.host == host && window.location.protocol != 'https:') { 
+      window.location.protocol = 'https:';
+    }
+  </script>
+  
   {% include twitter-card.html %}
 
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
