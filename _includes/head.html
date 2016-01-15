@@ -5,9 +5,8 @@
   
   <script>
     var host = 'danialbehzadi.github.io';
-    if (window.location.host == host && window.location.protocol != 'https:') { 
-      window.location.protocol = 'https:';
-    }
+    if (window.location.protocol != "https:" && window.location.host == host)
+      window.location.href = "https:" + window.location.href.substring(window.location.protocol.length);
   </script>
   
   {% include twitter-card.html %}
