@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "تلویزیون خود را هوشمند کنید"
-cover: "2014-09-23/cover.svg"
+cover: "2014-09-23/cover.png"
 category: [Free Software]
 tags: [kodi, xbmc, media center, pvr, TV, free software]
 ---
