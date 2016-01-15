@@ -3,15 +3,13 @@ title: در جست‌وجوی آزادی
 author: دانیال بهزادی
 email: dani.behzi@ubuntu.com
 description: > # this means to ignore newlines until "baseurl:"
-  منتشر شده با پروانه‌ی CC-BY-SA 
+  منتشر شده با پروانهٔ CC-BY-SA 
   
-  در سال‌های ۱۳۹۳ تا ۱۳۹۴
+  در سال‌های ۱۳۹۳ تا ۱۳۹۵
 baseurl: "/weblog" # the subpath of your site, e.g. /blog/
-url: "http://danialbehzadi.github.io" # the base hostname & protocol for your site
+url: "https://danialbehzadi.github.io" # the base hostname & protocol for your site
 twitter_username: danialbehzadi
 github_username:  danialbehzadi
-
-gems: ['jekyll_pdate_plugin']
 
 # Handling Reading
 encoding: utf-8

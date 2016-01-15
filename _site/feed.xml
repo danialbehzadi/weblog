@@ -2,27 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>در جست‌وجوی آزادی</title>
-    <description>منتشر شده با پروانه‌ی CC-BY-SA 
-در سال‌های ۱۳۹۳ تا ۱۳۹۴
+    <description>منتشر شده با پروانهٔ CC-BY-SA 
+در سال‌های ۱۳۹۳ تا ۱۳۹۵
 </description>
-    <link>http://danialbehzadi.github.io/weblog/</link>
-    <atom:link href="http://danialbehzadi.github.io/weblog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 09 Mar 2015 00:53:33 +0330</pubDate>
-    <lastBuildDate>Mon, 09 Mar 2015 00:53:33 +0330</lastBuildDate>
+    <link>https://danialbehzadi.github.io/weblog/</link>
+    <atom:link href="https://danialbehzadi.github.io/weblog/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 15 Jan 2016 16:18:54 +0330</pubDate>
+    <lastBuildDate>Fri, 15 Jan 2016 16:18:54 +0330</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
-        <title>به جکیل خوش آمدید!</title>
-        <description>&lt;p&gt;شما این ارسال را در شاخه‌ی &lt;code&gt;_posts&lt;/code&gt; خود خواهید یافت.&lt;/p&gt;
+        <title>کپی‌لفت: آرمانگرایی عملگرایانه</title>
+        <description>&lt;p&gt;برای درک اهمّیت کپی‌لفت، خوب است پیش از بیان تعریف آن، به مرور سرنوشت یک پروژهٔ نرم‌افزار آزاد بپردازیم. BSD یک سیستم‌عامل مبتنی بر یونیکس بود که نخستین بار در سال ۱۹۹۱ توسّط دانشگاه برکلی کالیفورنیا به صورت آزاد منتشر شد. پروانهٔ انتشار این سیستم‌عامل به گونه‌ای بود که هرگونه استفاده از کد مبدأ این سیستم‌عامل را مجاز می‌دانست. این امر موجب شد در سال ۱۹۹۴، مایکروسافت از کدهای این پروژه برای پیاده‌سازی پشتهٔ TCP/IP ویندوز استفاده کند و تغییرات آن را به صورت انحصاری برای خود نگه دارد. یک بار دیگر در سال ۲۰۰۱ نیز، شرکت اپل این سیستم‌عامل را برداشته و پس از تغییر در کدهای آن، آن را تبدیل به یک محصول انحصاری کرده و با نام OS X (بخوانید او.اِس تِن) منتشر کند. پیشرفت این سیستم‌عامل که یک کپی تقریباً برابر از BSD بود و به مرور امکانات بیش‌تری به صورت انحصاری بدان افزوده می‌شد، موجب رونق گرفتن محصول انحصاری جدید و فراموشی تدریجی BSD شد. در نتیجه، تلاش‌هایی که افراد بسیاری به منظور توسعهٔ آزادی نرم‌افزار انجام داده بودند و از وقت و توان خود برای این کار مایه گذاشته بودند، تبدیل به محصولی انحصاری شد که به جای پیشبرد آرمان‌های آنان، دقیقاً بر خلاف خواسته‌های توسعه‌دهندگانش عمل کرد.&lt;/p&gt;
+
+&lt;p&gt;پس آن‌گونه که می‌بینیم، آزادی بدون قید و شرط نمی‌تواند تضمینی برای آزاد ماندن محصول به ما بدهد. اگر به دنیا واقعی نیز بنگریم، مرزهای آزادی نمی‌توانند تا انتها گشوده باشند؛ هرکس باید تا جایی آزاد باشد که محدودهٔ آزادی دیگران تجاوز نکرده باشد. از این روست که میان آزادی و بی‌بندوباری تفاوت می‌گذاریم. ولی در دنیای نرم‌افزار چگونه می‌توان این مرز را برای آزادی تعیین کرد. پاسخ این پرسش، کپی‌لفت است.&lt;/p&gt;
+
+&lt;p&gt;کپی‌لفت می‌گوید که هر شخصی که نرم‌افزار را با یا بدون تغییر مجدداً منتشر کند، باید به همراهش آزادی تغییر و رونوشت را نیز منتقل کند. بدین صورت که نگارش‌های دیگر نرم‌افزاری با پروانهٔ انتشار کپی‌لفت، باید با همان پروانه یا یک پروانهٔ کپی‌لفت سازگار با پروانهٔ اصلی منتشر شوند. کپی‌لفت این پشتوانه را می‌دهد که تمام کاربران آزادی‌ها را در اختیار دارند. این کار محرّکی برای توسعه‌دهندگان است که چیزی به نرم‌افزار آزاد بیفزایند. خیلی از نرم‌افزارهای آزاد بااهمّیت مانند کامپایلر سی‌++ گنو، تنها به این دلیل است که وجود دارند.&lt;/p&gt;
+
+&lt;h1 class=&quot;center&quot; id=&quot;category-of-softwareweblogassets2016-01-15categorypng&quot;&gt;&lt;img src=&quot;/weblog/assets/2016-01-15/category.png&quot; alt=&quot;Category of Software&quot; /&gt;&lt;/h1&gt;
+
+&lt;p&gt;دلیل نام‌گذاری این خاصیت به نام کپی‌لفت این است که قانون حق رونوشت (کپی‌رایت) به منظور محدود کردن کاربران و گرفتن ازادی‌های آنان در قبال نرم‌افزارهایشان ایجاد شده است و به کار می‌رود، در حالی که چنین پروانه‌هایی از این قانون به منظور حفظ و تضمین آزادی‌های کاربران اسفاده می‌کنند، از آن‌جا که این عمل، برخلاف جهت استفادهٔ اصلی کپی‌رایت و نوعی هک قانونی است، نام آن نیز یک هک با واژهٔ کپی‌رایت است که در آن واژهٔ right که در این‌حا به معنی حق است، ولی در زبان انگلیسی معنای «راست» نیز می‌دهد، با واژهٔ left که به معنای «چپ» است، جایگزین شده، تا نشان‌دهندهٔ تفاوت جهت استفادهٔ از این حق باشد. هم‌چنین نشان کپی‌لفت، همان نشان کپی‌رایت است که در آن علامت C درون دایره به جای این که در جهت راست قرار گرفته باشد، به جهت چپ ایستاده است.&lt;/p&gt;
+
+&lt;p&gt;کپی‌لفت مفهومی جامع است و نمی‌توان یک مفهوم را به صورت مستقیم به کار گرفت، بلکه باید از پیاده‌سازی‌های خاصی از یک مفهوم استفاده کرد. معروف‌ترین و محبوب‌ترین این پیاده‌سازی‌ها، پروانهٔ جامع همگانی گنو است که برای نرم‌افزارهای عادی به کار رفته و به اختصار با نام GPL شناخته می‌شود. در صورتی که نرم‌افزار شما نرم‌افزاری نیست که منتشر شود، برای مثال، خدمتی است که روی یک کارساز نصب شده و به دیگران خدمت‌رسانی می‌کند، نیازمند گونهٔ دیگری از پروانه است که با شرایط خاص این گونه از نرم‌افزارها هماهنگ باشد؛ برای این گونه نرم‌افزارها، پروانهٔ AGPL کارساز است. برای مستندات و متونی که خود، نرم‌افزار نیستند ولی به همراه نرم‌افزارها ارائه می‌شوند، بهترین انتخاب پروانهٔ مستندات آزاد گنو یا GFDL است. هم‌چنین برای متون عادی، محتواهای چند رسانه‌ای از قبلی عکس، آهنگ، فیلم و… نیز پروانه‌ای با نام اختصاری CC-BY-SA توسّط بنیاد Creative Commons منتشر شده است که می‌تواند برای کپی‌لفت کردن آن‌ها به کار رود.&lt;/p&gt;
+
+&lt;p&gt;انتشار نرم‌افزار یا محتوای خود با پروانه‌های کپی‌لفت، نیازمند طی کردن مراحل قانونی نیست. شما می‌توانید تنها با قرار دادن پروندهٔ پروانهٔ انتشار مورد نظر درون شاخهٔ کد مبدأ نرم‌افزار، یا قرار دادن علامت مربوطه درون محتوای غیرنرم‌افزاری خود، محصولتان را با این پروانه‌ها منتشر کنید تا با مفاد موجود در آن پروانه، مشمول قانون حمایت از حق رونوشت قرار گیرند. در ایران تمامی محتواهای ایجاد شده درون کشور، به صورت خودکار مشمول قانون حمایت از حقوق پدیدآورندگان شده و تخطّی از پروانهٔ انتشار آن‌ها، قابل پیگیری قانونی است. هم‌چنین در کشورهایی که معاهده‌نامهٔ برن را پذیرفته‌اند، با انتشار محتوا، شما صاحب حق رونوشت آن محصول شناخته شده و به صورت خودکار پروانهٔ انتشاری که برای آن اثر مشخّص کرده‌اید، مورد حمایت قانونی قرار می‌گیرد.&lt;/p&gt;
 </description>
-        <pubDate>Wed, 18 Feb 2015 00:00:00 +0330</pubDate>
-        <link>http://danialbehzadi.github.io/weblog/2015/welcome-to-jekyll</link>
-        <guid isPermaLink="true">http://danialbehzadi.github.io/weblog/2015/welcome-to-jekyll</guid>
+        <pubDate>Fri, 15 Jan 2016 00:00:00 +0330</pubDate>
+        <link>https://danialbehzadi.github.io/weblog/2016/copyleft</link>
+        <guid isPermaLink="true">https://danialbehzadi.github.io/weblog/2016/copyleft</guid>
+        
+        <category>gnu</category>
+        
+        <category>license</category>
+        
+        <category>copyright</category>
+        
+        <category>copyleft</category>
+        
+        <category>free software</category>
         
         
-        <category>jekyll</category>
-        
-        <category>update</category>
+        <category>gnu</category>
         
       </item>
     
@@ -96,8 +116,8 @@
 &lt;p&gt;حال می‌توان به صورت عادی از آن استفاده کرد.&lt;/p&gt;
 </description>
         <pubDate>Wed, 14 Jan 2015 00:00:00 +0330</pubDate>
-        <link>http://danialbehzadi.github.io/weblog/2015/gnu-hurd</link>
-        <guid isPermaLink="true">http://danialbehzadi.github.io/weblog/2015/gnu-hurd</guid>
+        <link>https://danialbehzadi.github.io/weblog/2015/gnu-hurd</link>
+        <guid isPermaLink="true">https://danialbehzadi.github.io/weblog/2015/gnu-hurd</guid>
         
         <category>GNU</category>
         
@@ -232,8 +252,8 @@
 
 </description>
         <pubDate>Tue, 23 Sep 2014 00:00:00 +0330</pubDate>
-        <link>http://danialbehzadi.github.io/weblog/2014/smart-tv-with-kodi</link>
-        <guid isPermaLink="true">http://danialbehzadi.github.io/weblog/2014/smart-tv-with-kodi</guid>
+        <link>https://danialbehzadi.github.io/weblog/2014/smart-tv-with-kodi</link>
+        <guid isPermaLink="true">https://danialbehzadi.github.io/weblog/2014/smart-tv-with-kodi</guid>
         
         <category>kodi</category>
         
@@ -259,8 +279,8 @@
 &lt;h1 class=&quot;center&quot; id=&quot;close-windowsweblogassets2013-04-15closewindows2png&quot;&gt;&lt;img src=&quot;/weblog/assets/2013-04-15/closewindows2.png&quot; alt=&quot;Close Windows&quot; /&gt;&lt;/h1&gt;
 </description>
         <pubDate>Mon, 15 Apr 2013 00:00:00 +0430</pubDate>
-        <link>http://danialbehzadi.github.io/weblog/2013/close-windows</link>
-        <guid isPermaLink="true">http://danialbehzadi.github.io/weblog/2013/close-windows</guid>
+        <link>https://danialbehzadi.github.io/weblog/2013/close-windows</link>
+        <guid isPermaLink="true">https://danialbehzadi.github.io/weblog/2013/close-windows</guid>
         
         <category>windows</category>
         
@@ -325,8 +345,8 @@
 &lt;p&gt;زیرنویس فارسی این ویدئو رو از &lt;a href=&quot;http://www.universalsubtitles.org/en/videos/YAfuLWFp5zS4/fa/455123/&quot;&gt;این‌جا&lt;/a&gt; بگیرید.&lt;/p&gt;
 </description>
         <pubDate>Tue, 04 Dec 2012 00:00:00 +0330</pubDate>
-        <link>http://danialbehzadi.github.io/weblog/2012/itu-internt</link>
-        <guid isPermaLink="true">http://danialbehzadi.github.io/weblog/2012/itu-internt</guid>
+        <link>https://danialbehzadi.github.io/weblog/2012/itu-internt</link>
+        <guid isPermaLink="true">https://danialbehzadi.github.io/weblog/2012/itu-internt</guid>
         
         <category>ITU</category>
         
